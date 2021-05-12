@@ -1,0 +1,160 @@
+{
+    "employee": [
+      {
+        "id": 1,
+        "nume": "Pit",
+        "prenume": "Alex",
+        "password": "aaa",
+        "email": "aa@yahoo.com",
+        "tel": "07570000001",
+        "role": "software engineer",
+        "initials": "ATP",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 2,
+            "progress": 100
+          },        
+          { 
+            "id": 4,
+            "progress": 100
+          },        
+          { 
+            "id": 6,
+            "progress": 53.5
+          },        
+          { 
+            "id": 8,
+            "progress": 0
+          },        
+          { 
+            "id": 10,
+            "progress": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nume": "B",
+        "prenume": "Mihai",
+        "password": "aaa",
+        "email": "mihai@yahoo.com",
+        "tel": "07570000001",
+        "role": "software engineer",
+        "initials": "IBI",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 1,
+            "progress": 100
+          },        
+          { 
+            "id": 3,
+            "progress": 90
+          },               
+          { 
+            "id": 6,
+            "progress": 0
+          },        
+          { 
+            "id": 10,
+            "progress": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nume": "V",
+        "prenume": "Sorin",
+        "password": "aaa",
+        "email": "sorin@yahoo.com",
+        "tel": "07570000001",
+        "role": "software engineer",
+        "initials": "SVA",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 1,
+            "progress": 100
+          },        
+          {  
+            "id": 3,
+            "progress": 90
+          },               
+          { 
+            "id": 5,
+            "progress": 0
+          },        
+          { 
+            "id": 10,
+            "progress": 0
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "totalTime": 14.5,
+        "name": "Complete Linux Bash Shell Scripting with Real Life Examples",
+        "link": "https://rsystems.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples/"
+      },
+      {
+        "id": 2,
+        "totalTime": 25,
+        "name": "The Advanced Concepts (2021)",
+        "link": "https://rsystems.udemy.com/course/advanced-javascript-concepts/"
+      },
+      {
+        "id": 3,
+        "totalTime": 15.5,
+        "name": "GitLab",
+        "link": "https://docs.gitlab.com/ee/ci/quick_start/"
+      },
+      {
+        "id": 4,
+        "totalTime": 40.5,
+        "name": "Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)",
+        "link": "https://rsystems.udemy.com/course/complete-react-developer-zero-to-mastery/S"
+      },
+      {
+        "id": 5,
+        "totalTime": 21.5,
+        "name": "Docker and Kubernetes: The Complete Guide",
+        "link": "https://rsystems.udemy.com/course/docker-and-kubernetes-the-complete-guide/"
+      },
+      {
+        "id": 6,
+        "totalTime": 29.5,
+        "name": "React and Typescript: Build a Portfolio Project",
+        "link": "https://rsystems.udemy.com/course/react-and-typescript-build-a-portfolio-project/"
+      },
+      {
+        "id": 7,
+        "totalTime": 15.5,
+        "name": "The Advanced Concepts (2021)",
+        "link": "https://rsystems.udemy.com/course/advanced-javascript-concepts"
+      },
+      {
+        "id": 8,
+        "totalTime": 15.5,
+        "name": "The Advanced Concepts (2021)",
+        "link": "https://rsystems.udemy.com/course/advanced-javascript-concepts"
+      },
+      {
+        "id": 9,
+        "totalTime": 15.5,
+        "name": "The Advanced Concepts (2021)",
+        "link": "https://rsystems.udemy.com/course/advanced-javascript-concepts"
+      },
+      {
+        "id": 10,
+        "totalTime": 15.5,
+        "name": "The Advanced Concepts (2021)",
+        "link": "https://rsystems.udemy.com/course/advanced-javascript-concepts"
+      }
+    ]
+}
