@@ -39,7 +39,7 @@
         "id": 2,
         "nume": "B",
         "prenume": "Mihai",
-        "picture": "https://generated.photos/face/neutral-white-young-adult-male-with-short-black-hair-and-brown-eyes--5e68893e6d3b380006f23023",
+        "picture": "https://images.generated.photos/TAzUADudjxY8nTq6qPDbVXfAVl5w6umkFOekaeRStwc/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAyNDk5ODguanBn.jpg",
         "password": "aaa",
         "email": "mihai@yahoo.com",
         "tel": "07570000003",
@@ -70,7 +70,7 @@
         "id": 3,
         "nume": "V",
         "prenume": "Sorin",
-        "picture": "https://generated.photos/face/joyfull-white-adult-male-with-short-black-hair-and-brown-eyes--5e68893c6d3b380006f22fad",
+        "picture": "https://images.generated.photos/xk9sQp7VIhus0L45StDh8FRxpzGE2v8YFdIrf6BxLX0/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA2MDM1NjcuanBn.jpg",
         "password": "aaa",
         "email": "sorin@yahoo.com",
         "tel": "07570000004",
@@ -101,7 +101,7 @@
         "id": 4,
         "nume": "D",
         "prenume": "Andrei",
-        "picture": "https://generated.photos/face/neutral-white-young-adult-male-with-short-brown-hair-and-brown-eyes--5e68893a6d3b380006f22f57",
+        "picture": "https://images.generated.photos/UN85pZPcxM7NydHTkBlXqO5Iocdl2IW6m5YdPMXpvPM/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA1OTc2MDguanBn.jpg",
         "password": "aaa",
         "email": "dd@yahoo.com",
         "tel": "07570000005",
@@ -134,11 +134,11 @@
       },
       {
         "id": 5,
-        "nume": "C",
-        "prenume": "Costi",
-        "picture": "https://generated.photos/face/joyfull-white-adult-male-with-short-brown-hair-and-brown-eyes--5e68893a6d3b380006f22f51",
+        "nume": "Chira",
+        "prenume": "Elena",
+        "picture": "https://images.generated.photos/JkHajac4Frzxnw5W7oXMN4uHH9Tf7oH4dJnNrHA6Nrw/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA2MTY2NzQuanBn.jpg",
         "password": "aaa",
-        "email": "mihai@yahoo.com",
+        "email": "elena@yahoo.com",
         "tel": "07570000006",
         "role": "software engineer",
         "initials": "CEC",
@@ -165,9 +165,9 @@
       },
       {
         "id": 6,
-        "nume": "F",
-        "prenume": "Daniel",
-        "picture": "https://generated.photos/face/joyfull-white-young-adult-male-with-short-brown-hair-and-grey-eyes--5e6889376d3b380006f22e8b",
+        "nume": "Fira",
+        "prenume": "Daniela",
+        "picture": "https://images.generated.photos/w4MCCaz5qzw2m7N_xop6WrQZ5kmjyw65q9TCFsVgpc4/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAwMjg5MjUuanBn.jpg",
         "password": "aaa",
         "email": "dan@yahoo.com",
         "tel": "07570000009",
@@ -193,7 +193,38 @@
             "progress": 9
           }
         ]
-      }
+      },
+      {
+        "id": 7,
+        "nume": "Florea",
+        "prenume": "Alina",
+        "picture": "https://images.generated.photos/OXthnpAJwdkCnAUBE3058FVLxIL-h814og-oJbT98HM/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA0NDQ5NjUuanBn.jpg",
+        "password": "aaa",
+        "email": "alina@yahoo.com",
+        "tel": "07570000039",
+        "role": "software engineer",
+        "initials": "FLN",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 1,
+            "progress": 100
+          },        
+          {  
+            "id": 3,
+            "progress": 44          
+          },               
+          { 
+            "id": 5,
+            "progress": 51
+          },        
+          { 
+            "id": 10,
+            "progress": 93
+          }
+        ]
+      }  
     ],
     "courses": [
       {
