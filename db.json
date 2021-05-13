@@ -37,6 +37,37 @@
       },
       {
         "id": 2,
+        "nume": "Chira",
+        "prenume": "Elena",
+        "picture": "https://images.generated.photos/JkHajac4Frzxnw5W7oXMN4uHH9Tf7oH4dJnNrHA6Nrw/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA2MTY2NzQuanBn.jpg",
+        "password": "aaa",
+        "email": "elena@yahoo.com",
+        "tel": "07570000006",
+        "role": "software engineer",
+        "initials": "CEC",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 2,
+            "progress": 100
+          },        
+          { 
+            "id": 3,
+            "progress": 80
+          },               
+          { 
+            "id": 6,
+            "progress": 89
+          },        
+          { 
+            "id": 10,
+            "progress": 7
+          }
+        ]
+      },
+      {
+        "id": 3,
         "nume": "B",
         "prenume": "Mihai",
         "picture": "https://images.generated.photos/TAzUADudjxY8nTq6qPDbVXfAVl5w6umkFOekaeRStwc/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAyNDk5ODguanBn.jpg",
@@ -67,7 +98,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "nume": "V",
         "prenume": "Sorin",
         "picture": "https://images.generated.photos/xk9sQp7VIhus0L45StDh8FRxpzGE2v8YFdIrf6BxLX0/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA2MDM1NjcuanBn.jpg",
@@ -98,7 +129,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "nume": "D",
         "prenume": "Andrei",
         "picture": "https://images.generated.photos/UN85pZPcxM7NydHTkBlXqO5Iocdl2IW6m5YdPMXpvPM/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA1OTc2MDguanBn.jpg",
@@ -129,37 +160,6 @@
           { 
             "id": 10,
             "progress": 0
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "nume": "Chira",
-        "prenume": "Elena",
-        "picture": "https://images.generated.photos/JkHajac4Frzxnw5W7oXMN4uHH9Tf7oH4dJnNrHA6Nrw/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA2MTY2NzQuanBn.jpg",
-        "password": "aaa",
-        "email": "elena@yahoo.com",
-        "tel": "07570000006",
-        "role": "software engineer",
-        "initials": "CEC",
-        "office": "Craiova",
-        "manager": "Marius S",
-        "courses": [
-          { 
-            "id": 2,
-            "progress": 100
-          },        
-          { 
-            "id": 3,
-            "progress": 80
-          },               
-          { 
-            "id": 6,
-            "progress": 89
-          },        
-          { 
-            "id": 10,
-            "progress": 7
           }
         ]
       },
