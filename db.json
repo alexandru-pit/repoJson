@@ -4,6 +4,7 @@
         "id": 1,
         "nume": "Pit",
         "prenume": "Alex",
+        "picture": "https://generated.photos/face/joyfull-white-adult-male-with-short-brown-hair-and-brown-eyes--5e68893f6d3b380006f2304b",
         "password": "aaa",
         "email": "aa@yahoo.com",
         "tel": "07570000001",
@@ -38,9 +39,10 @@
         "id": 2,
         "nume": "B",
         "prenume": "Mihai",
+        "picture": "https://generated.photos/face/neutral-white-young-adult-male-with-short-black-hair-and-brown-eyes--5e68893e6d3b380006f23023",
         "password": "aaa",
         "email": "mihai@yahoo.com",
-        "tel": "07570000001",
+        "tel": "07570000003",
         "role": "software engineer",
         "initials": "IBI",
         "office": "Craiova",
@@ -68,9 +70,10 @@
         "id": 3,
         "nume": "V",
         "prenume": "Sorin",
+        "picture": "https://generated.photos/face/joyfull-white-adult-male-with-short-black-hair-and-brown-eyes--5e68893c6d3b380006f22fad",
         "password": "aaa",
         "email": "sorin@yahoo.com",
-        "tel": "07570000001",
+        "tel": "07570000004",
         "role": "software engineer",
         "initials": "SVA",
         "office": "Craiova",
@@ -91,6 +94,103 @@
           { 
             "id": 10,
             "progress": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nume": "D",
+        "prenume": "Andrei",
+        "picture": "https://generated.photos/face/neutral-white-young-adult-male-with-short-brown-hair-and-brown-eyes--5e68893a6d3b380006f22f57",
+        "password": "aaa",
+        "email": "dd@yahoo.com",
+        "tel": "07570000005",
+        "role": "software engineer",
+        "initials": "ANR",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 1,
+            "progress": 100
+          },        
+          { 
+            "id": 3,
+            "progress": 100
+          },        
+          { 
+            "id": 4,
+            "progress": 59.5
+          },        
+          { 
+            "id": 8,
+            "progress": 4
+          },        
+          { 
+            "id": 10,
+            "progress": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nume": "C",
+        "prenume": "Costi",
+        "picture": "https://generated.photos/face/joyfull-white-adult-male-with-short-brown-hair-and-brown-eyes--5e68893a6d3b380006f22f51",
+        "password": "aaa",
+        "email": "mihai@yahoo.com",
+        "tel": "07570000006",
+        "role": "software engineer",
+        "initials": "CEC",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 2,
+            "progress": 100
+          },        
+          { 
+            "id": 3,
+            "progress": 80
+          },               
+          { 
+            "id": 6,
+            "progress": 89
+          },        
+          { 
+            "id": 10,
+            "progress": 7
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "nume": "F",
+        "prenume": "Daniel",
+        "picture": "https://generated.photos/face/joyfull-white-young-adult-male-with-short-brown-hair-and-grey-eyes--5e6889376d3b380006f22e8b",
+        "password": "aaa",
+        "email": "dan@yahoo.com",
+        "tel": "07570000009",
+        "role": "software engineer",
+        "initials": "DVN",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 1,
+            "progress": 100
+          },        
+          {  
+            "id": 3,
+            "progress": 74          
+          },               
+          { 
+            "id": 5,
+            "progress": 57
+          },        
+          { 
+            "id": 10,
+            "progress": 9
           }
         ]
       }
