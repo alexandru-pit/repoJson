@@ -2,7 +2,7 @@
     "employee": [
       {
         "id": 1,
-        "nume": "Pit",
+        "nume": "P",
         "prenume": "Alex",
         "picture": "https://images.generated.photos/jBXgnIvF_vxQiovQu1LLMfLW8iNm2vMshMkJF0b64E8/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAwMDExMjEuanBn.jpg",
         "password": "aaa",
@@ -130,6 +130,37 @@
       },
       {
         "id": 5,
+        "nume": "Fira",
+        "prenume": "Daniela",
+        "picture": "https://images.generated.photos/w4MCCaz5qzw2m7N_xop6WrQZ5kmjyw65q9TCFsVgpc4/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAwMjg5MjUuanBn.jpg",
+        "password": "aaa",
+        "email": "dan@yahoo.com",
+        "tel": "07570000009",
+        "role": "software engineer",
+        "initials": "DVN",
+        "office": "Craiova",
+        "manager": "Marius S",
+        "courses": [
+          { 
+            "id": 1,
+            "progress": 100
+          },        
+          {  
+            "id": 3,
+            "progress": 74          
+          },               
+          { 
+            "id": 5,
+            "progress": 57
+          },        
+          { 
+            "id": 10,
+            "progress": 9
+          }
+        ]
+      },
+      {
+        "id": 6,
         "nume": "D",
         "prenume": "Andrei",
         "picture": "https://images.generated.photos/UN85pZPcxM7NydHTkBlXqO5Iocdl2IW6m5YdPMXpvPM/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzA1OTc2MDguanBn.jpg",
@@ -160,37 +191,6 @@
           { 
             "id": 10,
             "progress": 0
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "nume": "Fira",
-        "prenume": "Daniela",
-        "picture": "https://images.generated.photos/w4MCCaz5qzw2m7N_xop6WrQZ5kmjyw65q9TCFsVgpc4/rs:fit:256:256/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAwMjg5MjUuanBn.jpg",
-        "password": "aaa",
-        "email": "dan@yahoo.com",
-        "tel": "07570000009",
-        "role": "software engineer",
-        "initials": "DVN",
-        "office": "Craiova",
-        "manager": "Marius S",
-        "courses": [
-          { 
-            "id": 1,
-            "progress": 100
-          },        
-          {  
-            "id": 3,
-            "progress": 74          
-          },               
-          { 
-            "id": 5,
-            "progress": 57
-          },        
-          { 
-            "id": 10,
-            "progress": 9
           }
         ]
       },
